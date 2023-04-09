@@ -1,0 +1,12 @@
+            Biodata Diri
+
+Nama Lengkap          : Kurnia Surya Utama
+Jenis Kelamin         : Laki-laki
+Tempat/tanggal lahir  : Karawang, 12 Mei 2004
+Agama                 : Islam
+Alamat                : Perum Puri Anggrek H1/3, RT/RW 01/08, Wancimekar, Kotabaru, Karawang, Jawa Barat.
+Riwayat Pendidikan    : 1. SDN Wancimekar I, lulus tahun 2016
+                        2. SMPN I Kotabaru, lulus tahun 2019
+                        3. SMK Tri Mitra, lulus tahun 2022         
+no.Telepon            : 082114757039
+Email                 : Kurnia.surya.u@gmail.com
